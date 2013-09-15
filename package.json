@@ -1,0 +1,24 @@
+{
+  "name": "repeat-function",
+  "version": "0.1.0",
+  "description": "Repeat a value a number of times.",
+  "main": "repeat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/the-swerve/repeat-function.git"
+  },
+  "keywords": [
+    "repeat",
+    "functional",
+    "array",
+    "iterate"
+  ],
+  "author": "jay r bolton <jayrbolton@gmail.com> (http://jayrbolton.com/)",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/the-swerve/repeat-function/issues"
+  }
+}
