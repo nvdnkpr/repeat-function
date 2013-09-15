@@ -1,7 +1,7 @@
 {
   "name": "repeat-function",
-  "version": "0.1.0",
-  "description": "Repeat a value a number of times.",
+  "version": "0.2.0",
+  "description": "Construct an array by repeating a value (or function) a number of times.",
   "main": "repeat.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
